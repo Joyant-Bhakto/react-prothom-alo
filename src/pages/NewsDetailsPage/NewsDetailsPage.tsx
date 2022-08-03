@@ -40,7 +40,7 @@ function NewsDetailsPage() {
                     <Divider />
                 </Box>
 
-                <img width={"100%"} src={newsDetails?.data['cover-photo'] ?? newsDetails?.data.thumb} alt="cover-photo" />
+                <img width={"100%"} src={newsDetails?.data['cover-photo'] ?? newsDetails?.data.thumb} alt="cover-pic" />
 
                 <Box px={2}>
                     <Typography>

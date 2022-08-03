@@ -1,7 +1,7 @@
 import React from 'react'
 import { useTheme } from '@material-ui/core/styles';
 import { useGetNewsQuery } from '@data/laravel/services/api'
-import { AppBar, Card, CardActionArea, CssBaseline, Divider, Grid, ListItemAvatar, Tab, Tabs, Toolbar, useMediaQuery, } from '@material-ui/core';
+import { AppBar, CardActionArea, CssBaseline, Divider, Grid, Tab, Tabs, Toolbar, useMediaQuery, } from '@material-ui/core';
 import { Backdrop, CircularProgress, Container, Box, ListItem, ListItemText, Typography, } from '@material-ui/core'
 import { Link } from 'react-router-dom';
 

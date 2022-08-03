@@ -1,7 +1,6 @@
 import { Mutex } from "async-mutex";
 import { container } from "@src/appEngine";
 import { QUERY_KEYS } from "@constants/query";
-import LoginUser from "@core/domain/LoginUser";
 import { ConfigService } from "@config/ConfigService";
 import { loggedOut, tokenReceived } from "@store/actions/auth";
 import { isErrorWithMessage, isValidationError } from "@utils/error-handling";

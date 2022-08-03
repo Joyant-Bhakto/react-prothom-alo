@@ -12,7 +12,6 @@ const darkSecondaryColor = "#1A1D35";
 const darkBackgroundColor = "#050718";
 const darkPaperColor = "#121424";
 
-const defaultTheme = makeTheme({});
 
 const darkTheme = makeTheme({
   overrides: {

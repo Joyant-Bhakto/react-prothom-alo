@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@date-io/dayjs": "1.3",
-    "@devexpress/dx-react-chart": "^3.0.2",
+    "@devexpress/dx-react-chart": "^3.0.4",
     "@devexpress/dx-react-chart-material-ui": "2.7.6",
     "@devexpress/dx-react-core": "^3.0.2",
     "@fontsource/mulish": "^4.5.1",

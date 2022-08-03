@@ -1,4 +1,3 @@
-import {Button} from "@material-ui/core";
 import {FallbackProps} from "react-error-boundary";
 
 const ErrorFallback = ({error, resetErrorBoundary}: FallbackProps) => {
